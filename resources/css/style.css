@@ -29,6 +29,10 @@ p {
     color: gray;
 }
 
+video {
+    color: white;
+}
+
 /* Footer area */
 footer  p {
     text-align: right;
